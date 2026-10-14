@@ -1,0 +1,34 @@
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.exe
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.deps.json
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.runtimeconfig.json
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.dll
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.pdb
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.Form1.resources
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.AssemblyInfoInputs.cache
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.AssemblyInfo.cs
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.dll
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\refint\Hesap_Makinesi.dll
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.pdb
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.genruntimeconfig.cache
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\ref\Hesap_Makinesi.dll
+C:\Users\Emirhan\Desktop\Projeler\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Ma.A862399F.Up2Date
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.exe
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.deps.json
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.runtimeconfig.json
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.dll
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\bin\Debug\net10.0-windows\Hesap_Makinesi.pdb
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.Form1.resources
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.csproj.GenerateResource.cache
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.AssemblyInfoInputs.cache
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.AssemblyInfo.cs
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.dll
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\refint\Hesap_Makinesi.dll
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.pdb
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Makinesi.genruntimeconfig.cache
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\ref\Hesap_Makinesi.dll
+C:\Users\Emir\OneDrive\Desktop\C# çalışmalarım\Hesap_Makinesi\obj\Debug\net10.0-windows\Hesap_Ma.A862399F.Up2Date
